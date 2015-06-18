@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A .git file is created, and this is where git will keep track of the changes in the tracked files with some metadata. You need to do it so that you can track the changes made to files. You cannot commit anything if there is not a git repository there.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the working directory in that you choose what to be tracked in a working directory. A repository may have multiple working directories.
