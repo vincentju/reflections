@@ -9,3 +9,7 @@ The staging area is different from the working directory in that you choose what
 How can you use the staging area to make sure you have one commit per logical change?
 
 With the staging area I can simply add the files that are logically connected and make a commit with those, then add the other logically connected files and commit those. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Like the video said, when adding experimental features. Also, when making different versions (perhaps different languages) that need to be separate for the time being. Branches would help by keeping it organized and by keeping working versions alongside your experimental versions.
