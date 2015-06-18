@@ -5,3 +5,7 @@ A .git file is created, and this is where git will keep track of the changes in 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is different from the working directory in that you choose what to be tracked in a working directory. A repository may have multiple working directories.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+With the staging area I can simply add the files that are logically connected and make a commit with those, then add the other logically connected files and commit those. 
