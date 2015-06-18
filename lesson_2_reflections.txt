@@ -17,3 +17,7 @@ Like the video said, when adding experimental features. Also, when making differ
 How do the diagrams help you visualize the branch structure?
 
 Diagrams show that git history is not necessarily linear. It can have many different branches, but each of these branches are essentially linear history until they converge or merge.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is one final branch that takes both changes from the two bramches. We represent it in the diagram this way because the branch history will be different between branches, and the parent commits will sometimes not be the preceding commit when merging branches.
