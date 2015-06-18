@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Using diff definitely made the search for the error much faster. It gets rid of the need to manually parse through an entire document to see the differences.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I think that having easy access to a file's entire history could make me a more efficient programmer by lettimg me view any changes made very quickly, as well as letting me revert to a version that was more stable than the current one. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros of manually choosing: You can choose a logical point to save, it is not random, There is a more obvious reason for the save.
+
+Cons of manually choosing: You may forget to save, making the commit very big and unclear. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think that when dealing with code projects, the functions are often related accross files, and it makes sense to save a version of each file at the time of the commit. Google Docs usually uses non-code related files, and these make sense to save on an individual basis, as they are less interconnected.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log will show you the commits to all of the changes that have been made, git diff will compare two versions of the files and give some information on the changes.
+
+How might using version control make you more confident to make changes that could break something?
+
+Well, if something breaks we can easily revert to an older version that was not broken. This gives us the freedom to try things that could fail without worrying about them breaking our project.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try using Git for my new Chromecast project using HTML, CSS, JS, Java(Android), and possibly more.
