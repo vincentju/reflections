@@ -9,3 +9,7 @@ Pulling changes manually allows you to control exactly when you will sync files 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Branches are used on one repository to control versions of that repository for experimental purposes, etc. Clones are direct copies of a repository on the local machine, and perhaps GitHub or another machine. Forks are similar to clones, but the clone is made on GitHub servers. Forks link to the original repository too.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This will allow you to look at the last commits, and perhaps merge them with the master branch, without being connected to the internet.
