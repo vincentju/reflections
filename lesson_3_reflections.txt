@@ -5,3 +5,7 @@ You would want to do this when working on a repository on a machine that does no
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Pulling changes manually allows you to control exactly when you will sync files from the remote to the local. If Git automatically did this, it would be hard for people to collaborate with Git and would lead to confusion.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are used on one repository to control versions of that repository for experimental purposes, etc. Clones are direct copies of a repository on the local machine, and perhaps GitHub or another machine. Forks are similar to clones, but the clone is made on GitHub servers. Forks link to the original repository too.
